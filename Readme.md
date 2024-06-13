@@ -18,7 +18,7 @@ Em Python utilizando a biblioteca pandas para carregar um arquivo CSV contendo d
 
 
 <div display = "inline">
-          <img src="C:\Users\henrique\Desktop\xxxxxxx.png" /> 
+          <img src="C:\Users\henrique\Desktop\Projeto-Delivery\imagens\preETL.png" /> 
           <hr>
 </div>
 
@@ -32,7 +32,7 @@ Nessa etapa vamos utilizar o GOOGLE BIG QUERY para criar a data-base contendo as
 
 
 <div display = "inline">
-          <img src="C:\Users\henrique\Desktop\yyyyyyyyy.png" /> 
+          <img src="C:\Users\henrique\Desktop\Projeto-Delivery\imagens\GBQ.png" /> 
 </div>
 
 <hr>
@@ -51,7 +51,7 @@ Mesclagem de colunas, Remoção de duplicatas, desenvovimento de tabela calendar
 Adequação do relacionamento estre as tabelas.
 
 <div display = "inline">
-          <img src="C:\Users\henrique\Desktop\zzzzzz.png" /> 
+          <img src="C:\Users\henrique\Desktop\Projeto-Delivery\imagens\modelagem.png" /> 
 </div>
 
 <hr>
