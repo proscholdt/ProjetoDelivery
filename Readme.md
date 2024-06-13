@@ -3,10 +3,10 @@
 <h2> A ideia deste projeto é desenvolver um Relatório em Power BI sobre os indicadores solicitados. </h2>
 
 **Ferramentas utilizadas:**  
-Python   
-Google Big Query
-FIGMA  
-Power Bi
+Python  
+Google Big Query   
+FIGMA    
+Power Bi   
 
 <hr>
 
@@ -18,7 +18,7 @@ Em Python utilizando a biblioteca pandas para carregar um arquivo CSV contendo d
 
 
 <div display = "inline">
-          <img src="C:\Users\henrique\Desktop\Projeto-Delivery\imagens\preETL.png" /> 
+          <img src="imagens/preETL.png" /> 
           <hr>
 </div>
 
@@ -32,7 +32,7 @@ Nessa etapa vamos utilizar o GOOGLE BIG QUERY para criar a data-base contendo as
 
 
 <div display = "inline">
-          <img src="C:\Users\henrique\Desktop\Projeto-Delivery\imagens\GBQ.png" /> 
+          <img src="imagens/GBQ.png" /> 
 </div>
 
 <hr>
@@ -51,7 +51,7 @@ Mesclagem de colunas, Remoção de duplicatas, desenvovimento de tabela calendar
 Adequação do relacionamento estre as tabelas.
 
 <div display = "inline">
-          <img src="C:\Users\henrique\Desktop\Projeto-Delivery\imagens\modelagem.png" /> 
+          <img src="imagens/modelagem.png" /> 
 </div>
 
 <hr>
